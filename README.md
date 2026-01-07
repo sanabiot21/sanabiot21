@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @sanabiot21
-- IT Student passionate about Machine Learning and IoT systems. Currently building projects and expanding my skills in AI/ML.
+- 🎓 BS Information Technology | Graduating 2026
+💻 Interested in Machine Learning & IoT Development  
+🛠️ Tech Stack: Python, PHP, TypeScript, Kotlin
+📍 Cebu City, Philippines
