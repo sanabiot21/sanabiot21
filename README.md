@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @sanabiot21
-- Not good at coding lmao
-- xDDDD
-- a dumbass
+- IT Student passionate about Machine Learning and IoT systems. Currently building projects and expanding my skills in AI/ML.
