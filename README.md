@@ -49,7 +49,24 @@ Building ML pipelines and IoT systems that solve real problems. Currently in my 
 - Clean, accessible UI/UX design
 
 ## 🚀 Featured Projects
-*Coming soon - Currently migrating my best work to showcase here*
+
+### [HydroKeepr - IoT Water Quality Monitoring System](https://github.com/sanabiot21/hydrokeepr-capstone)
+**Full-stack IoT solution for water tank management**
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![ESP32](https://img.shields.io/badge/ESP32-000000.svg?style=flat-square&logo=espressif&logoColor=white)
+
+**What it does:**
+- Real-time monitoring of water temperature, pH levels, turbidity, and tank levels using ESP32 and multiple sensors
+- Cross-platform mobile + web dashboard built with React, Vite, and Capacitor
+- Firebase backend with Cloud Functions for data processing, alerting, and historical analytics
+- WiFi provisioning system via mobile app (no hardcoded credentials)
+- Automated relay control for water management systems
+
+---
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/rygrnd21
