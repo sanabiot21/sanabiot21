@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @sanabiot21
+# 👋 Hi, I'm @sanabiot
 **BS Information Technology** | Class of 2026  
 📍 Cebu City, Philippines
 
