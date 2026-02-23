@@ -1,10 +1,9 @@
 # 👋 Hi, I'm @sanabiot21
-
 **BS Information Technology** | Class of 2026  
 📍 Cebu City, Philippines
 
 ## 🧠 What I'm About
-Machine Learning enthusiast tryna make sense of data & building IoT solutions that actually do something useful. Currently grinding through my final year while getting hands dirty with real-world tech.
+Building ML pipelines and IoT systems that solve real problems. Currently in my final year while shipping production-ready applications and getting my hands dirty with enterprise tech stacks.
 
 ## 💼 Current Move
 **IT OJT @ [JustMe Digital Marketing Services](https://justmedms.com/)**
@@ -14,26 +13,47 @@ Machine Learning enthusiast tryna make sense of data & building IoT solutions th
 
 ## 🛠️ Tech Stack
 
-**Languages I Actually Use:**
-- Python, TypeScript, JavaScript, PHP, Kotlin, Java
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frameworks & Tools:**
-- **Frontend:** React + shadcn/ui (clean, professional)
-- **Backend:** Full-stack capable with Node.js, PHP backends
-- **Database:** MySQL, NoSQL (MongoDB, Firebase, whatever fits)
-- **UI Philosophy:** shadcn/ui supremacy - Bootstrap 5 is not invited to the function
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Agentic Dev Tools:**
-- Google's Antigravity
-- Claude Code
-- Currently learning AI workflows for complete hands-off development
+**Backend & Database:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**AI-Assisted Development:**
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎯 Focus Areas
 - Machine Learning pipelines & model deployment
 - IoT device integration & automation
-- Full-stack web development
-- Clean UI/UX that doesn't look like it's from 2015
+- Full-stack web development with modern frameworks
+- Clean, accessible UI/UX design
+
+## 🚀 Featured Projects
+*Coming soon - Currently migrating my best work to showcase here*
+
+## 📫 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/rygrnd21
+- 📧 Email: reynaldogrande9@gmail.com
 
 ---
-
 *Building stuff that matters, one commit at a time* 🚀
